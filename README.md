@@ -10,6 +10,8 @@ npm start and node/nodemon server.js
 
 The log in with any user in dev_test_data.sql or user Test, password 'pass'.
 
+Taught by [Dylan Trimble](https://github.com/dylantrimble)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
