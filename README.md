@@ -1,3 +1,16 @@
+# Skylark Social Platform
+
+Welcome to this basic social platform created with ReactJs, SASS, Node and MySQL. Primary use was to practice MySQL on a website.
+
+## To get the app up and running
+Download zip file or clone repository.
+Once installed, open the file and you may need to adjust information in the server.js file to match your mysql account. 
+
+npm start and node/nodemon server.js 
+
+The log in with any user in dev_test_data.sql or user Test, password 'pass'.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
